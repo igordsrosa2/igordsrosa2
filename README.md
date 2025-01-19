@@ -18,11 +18,11 @@
 - <strong>Big Data:</strong> Fundamentos de Hadoop e Spark<br>
 
 <h4>Principais competências</h4>
-- Aprendizado contínuo<br>
-- Resolução de problemas<br>
-- Criatividade<br>
-- Proatividade<br>
-- Interpretação e análise<br>
+- <strong>Aprendizado contínuo<br></strong>
+- <strong>Resolução de problemas<br></strong>
+- <strong>Criatividade<br></strong>
+- <strong>Proatividade<br></strong>
+- <strong>Interpretação e análise<br></strong>
 
 <h4>Objetivo profissional:</h4>
 <p>Busco oportunidades para ingressar na área de análise de dados, aplicando meus conhecimentos em ferramentas como Python e Power BI, além de habilidades em banco de dados, estatística e visualização de informações para gerar insights e soluções estratégicas.</p>
@@ -30,6 +30,6 @@
 <h4>Redes Sociais</h4>
 <div> 
   <a href="https://www.linkedin.com/in/igordsrosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:igordsrosaa@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:igordsrosaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/igoorsr_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
