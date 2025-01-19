@@ -4,23 +4,28 @@
 
 <h4>Formação:</h4>
 - Curso Superior Completo - Tecnólogo em análise e desenvolvimento de sistemas (Conclusão DEZ/2024)<br>
-- CursoTécnico Completo - Eletroeletrônica (Conclusão JUL/2021)<br>
+- Curso Técnico Completo - Eletroeletrônica (Conclusão JUL/2021)<br>
 - Inglês (Intermediário)
 
-<h4>Linguagens que possuo conhecimento ou estou aprendendo:</h4>
-- Back-end: Java, C#, Node<br>
-- Front-end: Html, Css, JS e React<br>
-- Ciência de Dados, Big Data e Inteligencia Artificial: Python<br>
-- Cibersegurança<br>
-- Redes de Computadores<br>
-- Mobile: React Native e Node<br>
-- Banco de Dados: MySql, MongoDB, OracleDB<br>
-- Automação Industrial: Elipse E3, CLP
+<h4>Projetos:</h4>
+- Análise das estatísticas da UEFA Champions League 21/22: https://github.com/igordsrosa2/ucl22-analysis
+
+<h4>Conhecimentos técnicos:</h4>
+- <strong>Análise de Dados:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn<br>
+- <strong>Ferramentas de Visualização:</strong> Power BI, Tableau, Matplotlib<br>
+- <strong>Manipulação de Dados:</strong> Microsoft Excel (avançado), SQL (MySQL, SQL Server, OracleDB)<br>
+- <strong>Bancos de Dados:</strong> Modelagem e consultas em MySQL, MongoDB<br>
+- <strong>Big Data:</strong> Fundamentos de Hadoop e Spark<br>
 
 <h4>Principais competências</h4>
 - Aprendizado contínuo<br>
 - Resolução de problemas<br>
 - Criatividade<br>
+- Proatividade<br>
+- Interpretação e análise<br>
+
+<h4>Objetivo profissional:</h4>
+<p>Busco oportunidades para ingressar na área de análise de dados, aplicando meus conhecimentos em ferramentas como Python e Power BI, além de habilidades em banco de dados, estatística e visualização de informações para gerar insights e soluções estratégicas.</p>
 
 <h4>Redes Sociais</h4>
 <div> 
