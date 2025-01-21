@@ -9,6 +9,7 @@
 
 <h4>Projetos:</h4>
 - Análise das estatísticas da UEFA Champions League 21/22: https://github.com/igordsrosa2/ucl22-analysis
+- Meu portfólio: https://github.com/igordsrosa2/portfolio-igor
 
 <h4>Conhecimentos técnicos:</h4>
 - <strong>Análise de Dados:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn<br>
