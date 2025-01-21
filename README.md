@@ -7,7 +7,7 @@ https://igordsrosa.netlify.app
 
 <h4>Formação:</h4>
 - Curso Superior Completo - Tecnólogo em análise e desenvolvimento de sistemas (Conclusão DEZ/2024)<br>
-- Curso Técnico Completo - Eletroeletrônica (Conclusão JUL/2021)<br>
+- Curso Técnico Completo - Eletroeletrônica (Conclusão JUL/2019)<br>
 - Inglês (Intermediário)
 
 <h4>Projetos:</h4>
