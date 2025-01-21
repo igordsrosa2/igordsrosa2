@@ -14,11 +14,11 @@ https://igordsrosa.netlify.app
 - Análise das estatísticas da UEFA Champions League 21/22: https://github.com/igordsrosa2/ucl22-analysis <br>
 
 <h4>Conhecimentos técnicos:</h4>
-- <strong>Análise de Dados:</strong> Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn<br>
-- <strong>Ferramentas de Visualização:</strong> Power BI, Tableau, Matplotlib<br>
-- <strong>Manipulação de Dados:</strong> Microsoft Excel (avançado), SQL (MySQL, SQL Server, OracleDB)<br>
+- <strong>Análise de Dados:</strong> Python (Pandas, NumPy, Scikit-learn)<br>
+- <strong>Ferramentas de Visualização:</strong> Power BI, Tableau, Seaborn, Matplotlib)<br>
+- <strong>Manipulação de Dados:</strong> Microsoft Excel (intermediário), SQL (MySQL, SQL Server, OracleDB)<br>
 - <strong>Bancos de Dados:</strong> Modelagem e consultas em MySQL, MongoDB<br>
-- <strong>Big Data:</strong> Fundamentos de Hadoop e Spark<br>
+- <strong>Big Data:</strong> Conhecimento de Hadoop e Spark<br>
 
 <h4>Principais competências</h4>
 - <strong>Aprendizado contínuo<br></strong>
