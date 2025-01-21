@@ -8,7 +8,7 @@
 - Inglês (Intermediário)
 
 <h4>Projetos:</h4>
-- Análise das estatísticas da UEFA Champions League 21/22: https://github.com/igordsrosa2/ucl22-analysis
+- Análise das estatísticas da UEFA Champions League 21/22: https://github.com/igordsrosa2/ucl22-analysis <br>
 - Meu portfólio: https://github.com/igordsrosa2/portfolio-igor
 
 <h4>Conhecimentos técnicos:</h4>
