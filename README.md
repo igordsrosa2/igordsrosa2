@@ -12,6 +12,7 @@ https://igordsrosa.netlify.app
 
 <h4>Projetos:</h4>
 - Análise das estatísticas da UEFA Champions League 21/22: https://github.com/igordsrosa2/ucl22-analysis <br>
+- Análise das estatísticas de vendas da NIKE em 2024: https://github.com/igordsrosa2/nike-analysis <br>
 
 <h4>Conhecimentos técnicos:</h4>
 - <strong>Análise de Dados:</strong> Python (Pandas, NumPy, Scikit-learn)<br>
