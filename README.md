@@ -6,6 +6,7 @@ https://igordsrosa.netlify.app
 <h3><bold>Sobre mim:</bold></h3>
 
 <h4>Formação:</h4>
+- Curso Superior em Andamento - Engenharia de Software (Conclusão DEZ/2028)<br>
 - Curso Superior Completo - Tecnólogo em análise e desenvolvimento de sistemas (Conclusão DEZ/2024)<br>
 - Curso Técnico Completo - Eletroeletrônica (Conclusão JUL/2019)<br>
 - Inglês (Intermediário)
