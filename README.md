@@ -11,15 +11,21 @@ https://igordsrosa.netlify.app
 - Inglês (Intermediário)
 
 <h4>Projetos:</h4>
+<h5>Análise de Dados</h5>
 - Análise das estatísticas da UEFA Champions League 21/22: https://github.com/igordsrosa2/ucl22-analysis <br>
 - Análise das estatísticas de vendas da NIKE em 2024: https://github.com/igordsrosa2/nike-analysis <br>
+<h5>Desenvolvimento de Software</h5>
+- Sistema de gerenciamento de jogos pro time TEF : https://github.com/igordsrosa2/JogosTEF
 
 <h4>Conhecimentos técnicos:</h4>
-- <strong>Análise de Dados:</strong> Python (Pandas, NumPy, Scikit-learn)<br>
-- <strong>Ferramentas de Visualização:</strong> Power BI, Tableau, Seaborn, Matplotlib)<br>
-- <strong>Manipulação de Dados:</strong> Microsoft Excel (intermediário), SQL (MySQL, SQL Server, OracleDB)<br>
-- <strong>Bancos de Dados:</strong> Modelagem e consultas em MySQL, MongoDB<br>
-- <strong>Big Data:</strong> Conhecimento de Hadoop e Spark<br>
+- <strong>Análise de Dados:</strong> Python (Pandas, NumPy, Scikit-learn) <br>
+- <strong>Ferramentas de Visualização:</strong> Power BI, Seaborn, Matplotlib</li> <br>
+- <strong>Manipulação de Dados:</strong> Microsoft Excel (intermediário), SQL (MySQL, SQL Server, OracleDB)</li> <br>
+- <strong>Bancos de Dados:</strong> Modelagem e consultas em MySQL, MongoDB</li> <br>
+- <strong>Desenvolvimento Back-end:</strong> Java (Spring Boot), Node.js (Express, NestJS)</li> <br>
+- <strong>Desenvolvimento Front-end:</strong> React.js, HTML, CSS, JavaScript, TypeScript</li> <br>
+- <strong>Versionamento de Código:</strong> Git, GitHub, GitLab</li> <br>
+- <strong>APIs e Integrações:</strong> REST, GraphQL</li> <br>
 
 <h4>Principais competências</h4>
 - <strong>Aprendizado contínuo<br></strong>
