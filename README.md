@@ -36,7 +36,7 @@ https://igordsrosa.netlify.app
 - <strong>Interpretação e análise<br></strong>
 
 <h4>Objetivo profissional:</h4>
-<p>Busco oportunidades para ingressar na área de análise de dados, aplicando meus conhecimentos em ferramentas como Python e Power BI, além de habilidades em banco de dados, estatística e visualização de informações para gerar insights e soluções estratégicas.</p>
+<p>Busco oportunidades para atuar tanto na área de análise de dados quanto no desenvolvimento de software. Tenho experiência em Python, Power BI, SQL e MongoDB para análise e visualização de informações, além de habilidades no desenvolvimento back-end com Java e Node.js e no front-end com React.js. Meu objetivo é contribuir para a criação de soluções inovadoras, otimizando processos e gerando insights estratégicos por meio da tecnologia.</p>
 
 <h4>Redes Sociais</h4>
 <div> 
